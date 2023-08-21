@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhodip-chatterjee" alt="subhodip-chatterjee" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript Project**
+- 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **React.js, Next.js, Node.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Javascript related projects**
 
-- 🤝 I’m looking for help with **javascript projects**
+- 🤝 I’m looking for help with **Next js projects**
 
 - 👨‍💻 All of my projects are available at [subhodip-chatterjee](subhodip-chatterjee)
 
 - 📝 I regularly write articles on [https://subhodipc.medium.com](https://subhodipc.medium.com)
 
-- 💬 Ask me about **React,Next,Node.js**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **https://www.linkedin.com/in/subhodip-chatterjee**
 
